@@ -1,1 +1,11 @@
-My name is Padmaja Sawant. I am currently pursuing B.Tech in Computer Science field from Cummins College Of Engineering For Women.
+My name is Padmaja Sawant.\
+I am currently pursuing B.Tech in Computer Science field
+
+from Cummins College Of Engineering For Women.\
+My skills are Python, Java, Mysql, HTML, CSS, Data
+
+structure. My soft skills are Team Player, Leader, Good
+
+Communicator, Productive worker, Keen Learner,
+
+Motivator.
